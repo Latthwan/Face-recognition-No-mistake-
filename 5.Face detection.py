@@ -24,4 +24,7 @@ while True:
 capture.release() #clear
 cv2.destroyAllWindows()
 
+ #I wrote it in video version so if you want to change the video just edit in line 17 
+    #and then change ("Video.mp4") to a video which you want to see the result
+#P.S You should download video on your computer before you run the program
 
